@@ -6,9 +6,11 @@
 
 
 ## Proyectos destacados 🎯
+<!--
 ![Desarrollo sostenible](https://img.shields.io/badge/-Desarrollo%20sostenible-orange)
 ![Proyectos innovadores](https://img.shields.io/badge/-Proyectos%20Innovadores-blue)
-![De peru para el mundo](https://img.shields.io/badge/-De%20Perú%20para%20el%20mundo%20%3AD-red)
+![De peru para el mundo](https://img.shields.io/badge/-De%20Perú%20para%20el%20mundo%20%3AD-red) -->
+</br>
 
 <!--proyectos-->
 
@@ -27,6 +29,8 @@
 </br>
 
 ## Lenguajes, Tecnologias  y Herramientas aprendidas 💻
+
+</br>
 
 <p>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
