@@ -18,6 +18,8 @@
 <img src="htps://creazilla-store.fra1.digitaloceanspaces.com/emojis/43834/black-large-square-emoji-clipart-xl.png" width="20" heigth="10"/>
 [![Proyecto EduCA](https://firebasestorage.googleapis.com/v0/b/iron-kids-36380.appspot.com/o/ReadmeProfile%2Fcard_educa.svg?alt=media&token=da8c0e62-ac7f-473c-a44e-6ab4961e93f0)](https://github.com/josuemardia/EduCA_Project_Flutter)
 
+### Si quieres ver mis demas proyectos, en el apartado de respositorios encontraras muchos mas :D!
+
 </br>
 
 ## Contacto 🤝
