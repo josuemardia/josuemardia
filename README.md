@@ -1,26 +1,27 @@
-# <p align = "center"> Hi there! 👋 Josué here</p>
+# <p align = "center"> Hola! 👋 soy Josué MarDi</p>
 
-### <p align = "center">✨ I am a student of the last semester of the Faculty of Systems Engineering, self-taught by profession :D, during the development of my university career I have managed to gain experience in software development both native and web, I am always interested in learning the latest trends in this topic. I love to learn new things and work on challenging projects that allow me to improve my skills. ✨</p>
+### <p align = "center">✨ Soy estudiante del último semestre de la Facultad de Ingeniería de Sistemas, autodidacta de profesión :D, durante el desarrollo de mi carrera universitaria he logrado adquirir experiencia en el desarrollo de software tanto nativo como web, siempre estoy interesado en aprender las últimas tendencias en este tema. Me encanta aprender cosas nuevas y trabajar en proyectos desafiantes que me permitan mejorar mis habilidades. ✨</p>
 
 </br>
 
-## My Skills
-- resilience
-- critical thinking
-- web design
+## Skills
+- Resiliencia
+- Pensamiento critico
+- Diseño web
 
-## My projects
+## Proyectos
+![Desarrollo sostenible](https://img.shields.io/badge/-Desarrollo%20sostenible-orange)
+![Proyectos innovadores](https://img.shields.io/badge/-Proyectos%20Innovadores-blue)
+![De peru para el mundo](https://img.shields.io/badge/-De%20peru%20para%20el%20mundo%20%3AD-red)
 
-[![Tarjeta con bordes redondeados y un párrafo dentro](https://img.shields.io/badge/Tarjeta-Con%20bordes%20redondeados%20y%20un%20p%C3%A1rrafo%20dentro-orange?style=flat-square&logo=svg)](https://raw.githubusercontent.com/tuusuario/tuproyecto/main/tumarchivo.svg)
 <!--proyectos-->
-![](https://firebasestorage.googleapis.com/v0/b/iron-kids-36380.appspot.com/o/ReadmeProfile%2Fcard_ironkids.svg?alt=media&token=1924268b-4883-4bbb-a2ff-80269cc8767a)
+[![Proyecto Iron Kids](https://firebasestorage.googleapis.com/v0/b/iron-kids-36380.appspot.com/o/ReadmeProfile%2Fcard_ironkids.svg?alt=media&token=1924268b-4883-4bbb-a2ff-80269cc8767a)](https://github.com/josuemardia/Iron_kids)
 <img src="htps://creazilla-store.fra1.digitaloceanspaces.com/emojis/43834/black-large-square-emoji-clipart-xl.png" width="20" heigth="10"/>
-![](https://firebasestorage.googleapis.com/v0/b/iron-kids-36380.appspot.com/o/ReadmeProfile%2Fcard_ironkids.svg?alt=media&token=1924268b-4883-4bbb-a2ff-80269cc8767a)
-
-<img src="htps://creazilla-store.fra1.digitaloceanspaces.com/emojis/43834/black-large-square-emoji-clipart-xl.png" width="20" heigth="10"/> Iron Kids
+[![Proyecto EduCA](https://firebasestorage.googleapis.com/v0/b/iron-kids-36380.appspot.com/o/ReadmeProfile%2Fcard_educa.svg?alt=media&token=da8c0e62-ac7f-473c-a44e-6ab4961e93f0)](https://github.com/josuemardia/EduCA_Project_Flutter)
 
 
-![AppVeyor](https://img.shields.io/appveyor/build/ver%20proyecto/https://github.com/josuemardia/Iron_kids/)
+
+
 <!--
 **josuemardia/josuemardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
