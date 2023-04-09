@@ -30,7 +30,7 @@
 
 </br>
 
-## Lenguajes, Tecnologias  y Herramientas aprendidas 💻
+## Lenguajes, Tecnologias  y Herramientas 💻
 
 </br>
 
