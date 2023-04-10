@@ -1,5 +1,7 @@
 # <p align = "center"> Hola! 👋 soy Josué MarDi</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1070&lines=Escribir+c%C3%B3digo+es+como+escribir+un+libro%3A+una+vez+que+comienzas%2C+es+dif%C3%ADcil+detenerte.)](https://git.io/typing-svg)
+
 ### <p align = "center">✨ Soy estudiante del último semestre de la Facultad de Ingeniería de Sistemas, autodidacta de profesión :D, durante el desarrollo de mi carrera universitaria he logrado adquirir experiencia en el desarrollo de software tanto nativo como web, siempre estoy interesado en aprender las últimas tendencias en este tema. Me encanta aprender cosas nuevas y trabajar en proyectos desafiantes que me permitan mejorar mis habilidades. ✨</p>
 
 </br>
