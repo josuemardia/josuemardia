@@ -57,6 +57,7 @@
 <a href="https://www.adobe.com/pe/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photosop" width="40" height="40"/></a>
 <a href="https://www.genexus.com" target="_blank" rel="noreferrer"> <img src="https://www.k2btools.com/media/k2btools/media/images/icon_distribuidor-genexus-1.svg" alt="genexus" width="40" height="40"/></a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/></a>
 </p>
 
  </br>
