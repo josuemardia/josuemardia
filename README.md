@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0000&center=true&multiline=true&width=445&height=55&lines=%E2%80%9CLa+bondad+es+la+%C3%BAnica+inversi%C3%B3n+que;+nunca+quiebra%22.+" alt="Typing SVG" /></a>
 </p>
 
-### <p align = "center">✨ Soy estudiante del último semestre de la Facultad de Ingeniería de Sistemas, autodidacta de profesión :D, durante el desarrollo de mi carrera universitaria he logrado adquirir experiencia en el desarrollo de software tanto nativo como web, siempre estoy interesado en aprender las últimas tendencias en este tema. Me encanta aprender cosas nuevas y trabajar en proyectos desafiantes que me permitan mejorar mis habilidades. ✨</p>
+### <p align = "center">✨ Soy egresado de la Facultad de Ingeniería de Sistemas, autodidacta de profesión :D, durante el desarrollo de mi carrera universitaria he logrado adquirir experiencia en el desarrollo de software tanto nativo como web, siempre estoy interesado en aprender las últimas tendencias en este tema. Me encanta aprender cosas nuevas y trabajar en proyectos desafiantes que me permitan mejorar mis habilidades. ✨</p>
 
 </br>
 
@@ -66,6 +66,7 @@
  
 ### <p align= "center"> ¡Gracias por visitar mi perfil! Si te gusta lo que ves, no dudes en ponerte en contacto conmigo o seguirme en mis redes sociales. Estoy siempre buscando colaborar en proyectos interesantes. </p>
  
+
 <p align="center"><img src="https://gifdb.com/images/high/harry-potter-waving-goodbye-mcdz9iyl5k5vc7lz.gif" alt="bye" width ="500" /></p>
  
  
