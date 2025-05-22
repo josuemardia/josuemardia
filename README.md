@@ -4,7 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0000&center=true&multiline=true&width=445&height=55&lines=%E2%80%9CLa+bondad+es+la+%C3%BAnica+inversi%C3%B3n+que;+nunca+quiebra%22.+" alt="Typing SVG" /></a>
 </p>
 
-### <p align = "center">✨ Soy egresado de la Facultad de Ingeniería de Sistemas, autodidacta de profesión :D, durante el desarrollo de mi carrera universitaria he logrado adquirir experiencia en el desarrollo de software tanto nativo como web, siempre estoy interesado en aprender las últimas tendencias en este tema. Me encanta aprender cosas nuevas y trabajar en proyectos desafiantes que me permitan mejorar mis habilidades. ✨</p>
+### <p align = "center">✨ soy una persona que aprende por necesidad y por intención. Me gusta entender distintos temas, porque muchas veces eso me permite encontrar formas concretas de ayudar o aportar en espacios sociales o comunitarios, porque aprender es una forma de prepararse para servir. 💡Me gusta absorber ideas de distintos lados: de un libro técnico, de una conversación casual o de un proyecto ajeno. Esa apertura me ha permitido adaptarme rápido y proponer soluciones más completas.
+ ✨</p>
 
 </br>
 
